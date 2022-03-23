@@ -49,6 +49,8 @@ Installing TypeScript: https://www.typescriptlang.org/docs/handbook/typescript-i
 ## How to run
 It is highly recommended to run this project in Visual Studio Code, using a Bash terminal within.  
 
+- Initially clone this repository (from any terminal of choice) `git clone https://github.com/AndrewG13/6502-Virtual-Machine.git`  
+
 - First run `npm install`  
 To install node dependencies.
 
